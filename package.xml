@@ -7,7 +7,7 @@
   <maintainer email="markus.bader@tuwien.ac.at">Markus Bader</maintainer>
   <license>GNU</license>
 
-  <depend>libfltk-dev</depend>
+  <!-- <depend>libfltk-dev</depend> -->
   <depend>libpng-dev</depend>
   <depend>libjpeg</depend>
   <depend>libtool</depend>
